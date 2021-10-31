@@ -52,5 +52,7 @@ You can use any IDE to open it, or you can run index.html with any brower. This 
 
 ## Screenshots
 
+![alt text](https://github.com/Eugene-Song/minesweeper/blob/master/example/minesweeper.png?raw=true)
+
 
 
