@@ -1,38 +1,13 @@
-# minesweeper
-A little game by js.
+# MineSweeper
 
-
-# Standard Readme
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
-A standard style for README files
-
-Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Standardizing how you write your README makes creating and maintaining your READMEs easier. Great documentation takes work!
-
-This repository contains:
-
-1. [The specification](spec.md) for how a standard README should look.
-2. A link to [a linter](https://github.com/RichardLitt/standard-readme-preset) you can use to keep your README maintained ([work in progress](https://github.com/RichardLitt/standard-readme/issues/5)).
-3. A link to [a generator](https://github.com/RichardLitt/generator-standard-readme) you can use to create standard READMEs.
-4. [A badge](#badge) to point to this spec.
-5. [Examples of standard READMEs](example-readmes/) - such as this file you are reading.
-
-Standard Readme is designed for open source libraries. Although it’s [historically](#background) made for Node and npm projects, it also applies to libraries in other languages and package managers.
-
+A little game by js. When I use lanqiao to learn js, I accidentily found this project. And I tried it on my own. 
 
 ## Table of Contents
 
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-	- [Generator](#generator)
-- [Badge](#badge)
-- [Example Readmes](#example-readmes)
-- [Related Efforts](#related-efforts)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#example)
 
 ## Background
 
@@ -53,6 +28,11 @@ You can use any IDE to open it, or you can run index.html with any brower. This 
 ## Screenshots
 
 ![alt text](https://github.com/Eugene-Song/minesweeper/blob/master/example/minesweeper.png?raw=true)
+
+![alt text](https://github.com/Eugene-Song/minesweeper/blob/master/example/minesweeper2.png?raw=true)
+
+![alt text](https://github.com/Eugene-Song/minesweeper/blob/master/example/minesweeper3.png?raw=true)
+
 
 
 
